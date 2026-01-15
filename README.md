@@ -2,6 +2,12 @@
 
 ![TechSolutions - Full Design Preview](all.png)
 
+## Screenshots / Скріншоти / Screenshots
+
+| Home Page | Sign In | Sign Up |
+|:---------:|:-------:|:-------:|
+| ![Home](Home.png) | ![Login](Login.png) | ![Sign Up](Sign%20Up.png) |
+
 ---
 
 ## 🇬🇧 ENGLISH
