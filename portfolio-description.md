@@ -1,5 +1,7 @@
 # Portfolio Description - TechSolutions Landing Page
 
+![TechSolutions - Full Design Preview](all.png)
+
 ---
 
 ## 🇬🇧 ENGLISH
